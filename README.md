@@ -10,8 +10,8 @@ steps to use these repository
 <hr>
 -- open folder using Vscode
 <hr>
--- open index.js file 
- |--- you can add your name & age inside the var = users (variable)
+-- open index.js file     
+   :---> you can add your name & age inside the var = users (variable)
 <hr>
 -- now click on the run button in index.js file 
 <hr>
